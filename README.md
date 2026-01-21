@@ -48,8 +48,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/iyanuoluwadiamond/advice-generator-app-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/iyanuoluwadiamond/advice-generator-app-main
+]
+- Live Site URL: [https://iyanuoluwadiamond.github.io/advice-generator-app-main/]
+
 
 ## My process
 
@@ -96,8 +98,8 @@ Helped me write a clean and structured README file.
 ## Author
 
 - Website - [Iyanuoluwa Idowu](https://www.your-site.com)
-- Frontend Mentor - [@iyanuoluwa](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Diamondolusola](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@iyanuoluwa](https://www.frontendmentor.io/profile/iyanuoluwa)
+- Twitter - [@Diamondolusola](https://www.twitter.com/diamondolusola)
 
 
 
